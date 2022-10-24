@@ -1,6 +1,6 @@
 👋 Hi, I’m @Fonnt
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🤝 I’m looking for help with getting better on best practice<br>🌱 I’m currently learning React<br>💬 Ask me about how you decided to change career<br>⚡ Fun fact: I have 2 cats. Sushi and Wasabi
+🔭 I’m currently working on my portfolio<br>🤝 I’m looking for help with getting better on best practice<br>🌱 I’m currently learning React<br>💬 Ask me about how I decided to change career<br>⚡ Fun fact: I have 2 cats. Sushi and Wasabi
 
 
 ## 🌐 Socials:
